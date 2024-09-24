@@ -15,3 +15,9 @@ https://bitcoin.org/bitcoin.pdf
 
 ### DSA
 https://projects.100xdevs.com/tracks/dsa/dsa1
+
+
+### Rust
+https://doc.rust-lang.org/book/
+
+https://www.youtube.com/watch?v=unRhxbFULII&list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5
