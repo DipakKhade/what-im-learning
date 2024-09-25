@@ -13,9 +13,6 @@ https://github.com/solana-labs/solana-program-library/tree/master/token/program-
 ### BTC
 https://bitcoin.org/bitcoin.pdf
 
-### DSA
-https://projects.100xdevs.com/tracks/dsa/dsa1
-
 
 ### Rust
 https://doc.rust-lang.org/book/
