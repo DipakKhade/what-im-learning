@@ -18,3 +18,7 @@ https://bitcoin.org/bitcoin.pdf
 https://doc.rust-lang.org/book/
 
 https://www.youtube.com/watch?v=unRhxbFULII&list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5
+
+
+### Nginx
+https://nginx.org/en/docs/
