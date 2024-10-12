@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=unRhxbFULII&list=PLinedj3B30sA_M0oxCRgFzPzEMX3CS
 
 ### Nginx
 https://nginx.org/en/docs/
+
+
+### System Design
+https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/
