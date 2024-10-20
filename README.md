@@ -29,3 +29,6 @@ https://takeuforward.org/system-design/complete-system-design-roadmap-with-video
 
 ### aws
 https://aws.amazon.com/ecs/
+
+### Remote Procedure Calls (RPC)
+https://protobuf.dev/
