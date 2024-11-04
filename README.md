@@ -30,8 +30,6 @@ https://takeuforward.org/system-design/complete-system-design-roadmap-with-video
 ### aws
 https://aws.amazon.com/ecs/
 
-#### Socket io
-https://socket.io/how-to/use-with-react#remarks-about-the-useeffect-hook
 
 ### Remote Procedure Calls (RPC)
 https://protobuf.dev/
