@@ -10,6 +10,9 @@ https://anza-xyz.github.io/wallet-adapter/
 
 https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022
 
+##### Ethereum dapps
+https://wagmi.sh/react/getting-started
+
 ### BTC
 https://bitcoin.org/bitcoin.pdf
 
