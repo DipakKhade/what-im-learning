@@ -38,4 +38,5 @@ https://aws.amazon.com/ecs/
 https://protobuf.dev/
 
 
-#
+#### s3
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
