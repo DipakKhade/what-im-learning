@@ -44,3 +44,6 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 ## K8S
 https://projects.100xdevs.com/tracks/kubernetes-1/Kubernetes-Part-1-14
+
+### Ingress
+https://kubernetes.io/docs/concepts/services-networking/ingress/
