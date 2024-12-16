@@ -47,3 +47,6 @@ https://projects.100xdevs.com/tracks/kubernetes-1/Kubernetes-Part-1-14
 
 ### Ingress
 https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+## Argo CD
+https://argo-cd.readthedocs.io/en/stable/
