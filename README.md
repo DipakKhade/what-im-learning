@@ -53,3 +53,6 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 ## Argo CD
 https://argo-cd.readthedocs.io/en/stable/
+
+### recoil Asynchronous Data Queries
+https://recoiljs.org/docs/guides/asynchronous-data-queries
