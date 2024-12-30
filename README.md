@@ -48,7 +48,8 @@ https://projects.100xdevs.com/tracks/kubernetes-1/Kubernetes-Part-1-14
 ### Next js Server Actions
 https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations
 
-### Ingress
+### Ingress Controller and Ingress
+https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 ## Argo CD
