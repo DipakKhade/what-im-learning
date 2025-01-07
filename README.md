@@ -13,6 +13,9 @@ https://github.com/solana-labs/solana-program-library/tree/master/token/program-
 #### CPIs
 https://solana.com/docs/core/cpi
 
+#### Solidity
+https://docs.soliditylang.org/en/latest/structure-of-a-contract.html
+
 ##### Ethereum dapps
 https://wagmi.sh/react/getting-started
 
