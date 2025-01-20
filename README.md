@@ -63,3 +63,8 @@ https://argo-cd.readthedocs.io/en/stable/
 
 ### recoil Asynchronous Data Queries
 https://recoiljs.org/docs/guides/asynchronous-data-queries
+
+
+
+## Prisma
+https://www.prisma.io/docs/orm/prisma-client/queries/full-text-search
