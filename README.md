@@ -13,6 +13,8 @@ https://github.com/solana-labs/solana-program-library/tree/master/token/program-
 #### SOLANA Devlopment (Anchor)
 https://www.anchor-lang.com/docs/basics/program-structure
 
+https://www.youtube.com/watch?v=amAq-WHAFs8
+
 #### CPIs
 https://solana.com/docs/core/cpi
 
