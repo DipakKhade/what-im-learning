@@ -76,3 +76,7 @@ https://recoiljs.org/docs/guides/asynchronous-data-queries
 
 ## Prisma
 https://www.prisma.io/docs/orm/prisma-client/queries/full-text-search
+
+
+## Rust macro_rules!
+https://doc.rust-lang.org/rust-by-example/macros.html
