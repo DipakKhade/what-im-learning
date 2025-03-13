@@ -73,7 +73,6 @@ https://argo-cd.readthedocs.io/en/stable/
 https://recoiljs.org/docs/guides/asynchronous-data-queries
 
 
-
 ## Prisma
 https://www.prisma.io/docs/orm/prisma-client/queries/full-text-search
 
@@ -83,3 +82,7 @@ https://doc.rust-lang.org/rust-by-example/macros.html
 
 ## Postman Workspace, Collection
 https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data/
+
+
+# Data Structures and Algorithms
+https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
