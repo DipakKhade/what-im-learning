@@ -36,6 +36,8 @@ https://doc.rust-lang.org/book/
 
 https://www.youtube.com/watch?v=unRhxbFULII&list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5
 
+https://www.youtube.com/watch?v=dHkzSZnYXmk&t=174s
+
 ##### Crust of Rust
 https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
 
