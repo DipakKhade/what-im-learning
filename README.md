@@ -91,3 +91,7 @@ https://learning.postman.com/docs/getting-started/importing-and-exporting/export
 
 # Data Structures and Algorithms
 https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
+
+
+## Async Rust
+https://www.youtube.com/watch?v=ThjvMReOXYM&t=692s
