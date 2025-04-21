@@ -96,3 +96,6 @@ https://www.youtube.com/watch?v=ThjvMReOXYM&t=692s
 
 ## Kafka
 http://kafka.apache.org/documentation
+
+## UV | Python
+https://docs.astral.sh/uv/getting-started/features/#scripts
