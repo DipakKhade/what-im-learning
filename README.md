@@ -100,3 +100,7 @@ http://kafka.apache.org/documentation
 ## UV | Python
 https://docs.astral.sh/uv/getting-started/features/#scripts
 https://github.com/astral-sh/uv/
+
+
+### MCP
+https://github.com/modelcontextprotocol
