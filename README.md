@@ -104,3 +104,18 @@ https://github.com/astral-sh/uv/
 
 ### MCP
 https://github.com/modelcontextprotocol
+Projects :  vio-tables library, Project DE
+
+Projects Status : Vio-table : completed , all bugs are fixed and adding the new 						features as per requirements
+			     Project DE : completed more then 80% 
+
+Certifications :  1. 100xdevs Advance Backend , System design and Devops Cource (duration 6 months , live Lectures on  Saturday, Sunday 7:30 PM to  		10:30PM , from April 2024 - September 2024)
+			    2. 100xdevs Web3 Course (live lecture Friday 8 PM to 11 PM,  from September 2024 - Present)
+
+
+Learnings in last year : 
+					 During Projects : angular, ionic, SQL 
+					 From self study : advance concepts in React, Next js, Node js, Kubernetes, Redis, Kafka, WebRTC , Web3 and leaning Rust currently
+
+Current Salary  : 25000 INR
+Expected Salary : 40000 INR
