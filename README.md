@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=dHkzSZnYXmk&t=174s
 
 --- std::collections ---
 https://doc.rust-lang.org/stable/std/vec/struct.Vec.html
+--- macros ---
+https://www.youtube.com/watch?v=geovSK3wMB8&list=PLqbS7AVVErFgwC_HByFYblghsDsD5wZDv
 
 ##### Crust of Rust
 https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
