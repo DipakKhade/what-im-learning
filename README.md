@@ -43,6 +43,7 @@ https://doc.rust-lang.org/stable/std/vec/struct.Vec.html
 
 --- macros ---
 https://www.youtube.com/watch?v=geovSK3wMB8&list=PLqbS7AVVErFgwC_HByFYblghsDsD5wZDv
+
 https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 
 ##### Crust of Rust
