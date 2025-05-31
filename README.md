@@ -114,4 +114,7 @@ https://github.com/astral-sh/uv/
 
 ### MCP
 https://github.com/modelcontextprotocol
+
+### Nginx
+https://www.youtube.com/watch?v=9t9Mp0BGnyI
  
