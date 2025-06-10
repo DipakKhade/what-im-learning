@@ -117,4 +117,7 @@ https://github.com/modelcontextprotocol
 
 ### Nginx
 https://www.youtube.com/watch?v=9t9Mp0BGnyI
- 
+
+
+ ### Networking 
+ https://www.youtube.com/watch?v=PhTn8RkF0F4&t=1494s
