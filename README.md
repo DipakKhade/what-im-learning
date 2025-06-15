@@ -121,3 +121,6 @@ https://www.youtube.com/watch?v=9t9Mp0BGnyI
 
  ### Linux
  https://www.youtube.com/playlist?list=PLdpzxOOAlwvIBIRWcReRV-m2kgIW6V6gr
+
+ ## Diesel
+ https://diesel.rs/guides/getting-started
