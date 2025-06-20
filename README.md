@@ -46,6 +46,9 @@ https://doc.rust-lang.org/stable/std/vec/struct.Vec.html
 --- macros ---
 https://www.youtube.com/watch?v=geovSK3wMB8&list=PLqbS7AVVErFgwC_HByFYblghsDsD5wZDv
 
+--- Send and Sync traits ---
+https://google.github.io/comprehensive-rust/concurrency/send-sync.html
+
 https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 
 ##### Crust of Rust
