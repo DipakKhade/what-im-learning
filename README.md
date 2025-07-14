@@ -132,3 +132,7 @@ https://www.youtube.com/watch?v=9t9Mp0BGnyI
 
  ## Diesel
  https://diesel.rs/guides/getting-started
+
+
+ # DevOps
+ https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa
