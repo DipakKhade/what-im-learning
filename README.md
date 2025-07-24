@@ -136,6 +136,7 @@ https://www.youtube.com/watch?v=9t9Mp0BGnyI
 
  # DevOps
  https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa
+ https://developer.hashicorp.com/terraform/docs
 
  ## Solana fellowship
 https://www.youtube.com/watch?v=3Np9awO3sV8&t=2844s
