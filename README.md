@@ -140,3 +140,6 @@ https://www.youtube.com/watch?v=9t9Mp0BGnyI
 
  ## Solana fellowship
 https://www.youtube.com/watch?v=3Np9awO3sV8&t=2844s
+
+# Machine Learning 
+https://www.youtube.com/watch?v=NWONeJKn6kc&t=214s
