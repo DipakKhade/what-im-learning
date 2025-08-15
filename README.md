@@ -144,3 +144,6 @@ https://www.youtube.com/watch?v=3Np9awO3sV8&t=2844s
 # Machine Learning 
 https://www.youtube.com/watch?v=NWONeJKn6kc&t=214s
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+#cross-browser extension
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Build_a_cross_browser_extension
