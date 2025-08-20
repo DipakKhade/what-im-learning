@@ -147,3 +147,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearReg
 
 #cross-browser extension
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Build_a_cross_browser_extension
+
+
+#Burp Suite 
+https://portswigger.net/burp/documentation
