@@ -151,3 +151,6 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Build_a_c
 
 #Burp Suite 
 https://portswigger.net/burp/documentation
+
+## React Native -Expo
+https://docs.expo.dev/develop/file-based-routing/
