@@ -157,3 +157,4 @@ https://docs.expo.dev/develop/file-based-routing/
 
 # AI
 https://neptune.ai/blog/tokenization-in-nlp
+https://docs.langchain.com/
