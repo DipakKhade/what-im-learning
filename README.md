@@ -159,3 +159,5 @@ https://docs.expo.dev/develop/file-based-routing/
 https://neptune.ai/blog/tokenization-in-nlp
 
 https://docs.langchain.com/
+
+mem0 : https://docs.mem0.ai/open-source/python-quickstart
