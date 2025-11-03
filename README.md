@@ -161,3 +161,6 @@ https://neptune.ai/blog/tokenization-in-nlp
 https://docs.langchain.com/
 
 mem0 : https://docs.mem0.ai/open-source/python-quickstart
+
+
+qdrant vector db: https://qdrant.tech/documentation/overview/vector-search/
