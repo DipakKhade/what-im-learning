@@ -168,3 +168,6 @@ qdrant vector db: https://qdrant.tech/documentation/overview/vector-search/
 
 # Git
 git rebase --- https://git-scm.com/docs/git-rebase
+
+# Prisma V7
+https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
