@@ -1,8 +1,3 @@
-
-https://www.youtube.com/watch?v=BpPEoZW5IiY&t=3531s
-
-https://www.youtube.com/watch?v=qP7LzZqGh30&t=13373s
-
 ## Web3
 https://www.youtube.com/watch?v=ERAxd8gl1Eg&t=1245s
 
@@ -169,3 +164,6 @@ git rebase --- https://git-scm.com/docs/git-rebase
 # Prisma V7
 https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
 --- multi tenant https://www.prisma.io/docs/orm/prisma-schema/data-model/multi-schema
+
+
+## One Billion Row challenge - https://www.youtube.com/watch?v=tCY7p6dVAGE
