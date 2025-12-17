@@ -29,11 +29,6 @@ https://bitcoin.org/bitcoin.pdf
 
 
 ### Rust
-https://doc.rust-lang.org/book/
-
-https://www.youtube.com/watch?v=unRhxbFULII&list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5
-
-https://www.youtube.com/watch?v=dHkzSZnYXmk&t=174s
 
 https://www.youtube.com/watch?v=lTjGt17bQ3k&list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL
 
@@ -50,6 +45,9 @@ https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 
 ---- Build Scripts ----
 https://doc.rust-lang.org/cargo/reference/build-scripts.html
+
+---- Kafka ----
+https://github.com/kafka-rust/kafka-rust
 
 ##### Crust of Rust
 https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
