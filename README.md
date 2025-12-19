@@ -63,10 +63,6 @@ https://nginx.org/en/docs/
 ### System Design
 https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/
 
-### aws
-https://aws.amazon.com/ecs/
-
-
 ### Remote Procedure Calls (RPC)
 https://protobuf.dev/
 
@@ -84,9 +80,6 @@ https://nextjs.org/docs/app/building-your-application/data-fetching/server-actio
 ### Ingress Controller and Ingress
 https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 https://kubernetes.io/docs/concepts/services-networking/ingress/
-
-## Argo CD
-https://argo-cd.readthedocs.io/en/stable/
 
 ### recoil Asynchronous Data Queries
 https://recoiljs.org/docs/guides/asynchronous-data-queries
