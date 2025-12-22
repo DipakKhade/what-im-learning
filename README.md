@@ -163,3 +163,5 @@ https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
 ## One Billion Row challenge - https://www.youtube.com/watch?v=tCY7p6dVAGE
 
 ### Bun --- https://bun.com/blog/behind-the-scenes-of-bun-install
+
+## GraphQL Mutations ---- https://graphql.org/learn/mutations/
