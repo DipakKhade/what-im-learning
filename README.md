@@ -30,14 +30,6 @@ https://bitcoin.org/bitcoin.pdf
 
 ### Rust
 
-https://www.youtube.com/watch?v=lTjGt17bQ3k&list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL
-
---- std::collections ---
-https://doc.rust-lang.org/stable/std/vec/struct.Vec.html
-
---- macros ---
-https://www.youtube.com/watch?v=geovSK3wMB8&list=PLqbS7AVVErFgwC_HByFYblghsDsD5wZDv
-
 --- Send and Sync traits ---
 https://google.github.io/comprehensive-rust/concurrency/send-sync.html
 
