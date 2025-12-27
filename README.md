@@ -157,3 +157,5 @@ https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
 ### Bun --- https://bun.com/blog/behind-the-scenes-of-bun-install
 
 ## GraphQL Mutations ---- https://graphql.org/learn/mutations/
+
+###LLM --- https://www.youtube.com/watch?v=zjkBMFhNj_g
