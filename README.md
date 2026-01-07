@@ -83,19 +83,9 @@ https://doc.rust-lang.org/rust-by-example/macros.html
 ## Postman Workspace, Collection
 https://learning.postman.com/docs/getting-started/importing-and-exporting/exporting-data/
 
-# Data Structures and Algorithms
-https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
 
 ## Async Rust
 https://www.youtube.com/watch?v=ThjvMReOXYM&t=692s
-
-
-## Kafka
-http://kafka.apache.org/documentation
-
-## UV | Python
-https://docs.astral.sh/uv/getting-started/features/#scripts
-https://github.com/astral-sh/uv/
 
 
 ### MCP
