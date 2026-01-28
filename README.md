@@ -51,10 +51,6 @@ https://www.youtube.com/watch?v=o2ob8zkeq2s&list=PLqbS7AVVErFirH9armw8yXlE6dacF-
 ### Nginx
 https://nginx.org/en/docs/
 
-
-### System Design
-https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/
-
 ### Remote Procedure Calls (RPC)
 https://protobuf.dev/
 
