@@ -41,12 +41,6 @@ https://doc.rust-lang.org/cargo/reference/build-scripts.html
 ---- Kafka ----
 https://github.com/kafka-rust/kafka-rust
 
-##### Crust of Rust
-https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
-
-#### Tokio Runtime
-https://www.youtube.com/watch?v=o2ob8zkeq2s&list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z&index=4
-
 
 ### Nginx
 https://nginx.org/en/docs/
