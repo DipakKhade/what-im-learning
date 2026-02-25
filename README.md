@@ -119,9 +119,6 @@ mem0 : https://docs.mem0.ai/open-source/python-quickstart
 qdrant vector db: https://qdrant.tech/documentation/overview/vector-search/
 
 
-# Git
-git rebase --- https://git-scm.com/docs/git-rebase
-
 # Prisma V7
 https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
 --- multi tenant https://www.prisma.io/docs/orm/prisma-schema/data-model/multi-schema
