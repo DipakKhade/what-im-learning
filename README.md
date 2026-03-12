@@ -1,9 +1,3 @@
-## Web3
-https://www.youtube.com/watch?v=ERAxd8gl1Eg&t=1245s
-
-https://anza-xyz.github.io/wallet-adapter/
-
-https://github.com/solana-labs/solana-program-library/tree/master/token/program-2022
 
 ###Solana Program
 https://solana.com/docs/programs/rust/program-structure
