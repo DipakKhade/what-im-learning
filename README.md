@@ -1,14 +1,4 @@
 
-###Solana Program
-https://solana.com/docs/programs/rust/program-structure
-
-#### SOLANA Devlopment (Anchor)
-https://www.anchor-lang.com/docs/basics/program-
-
-https://www.notion.so/Anchor-vs-raw-contracts-1fcba4a3826981fda7fdf9869eda5961?pvs=4
-
-https://www.youtube.com/watch?v=amAq-WHAFs8
-
 #### CPIs
 https://solana.com/docs/core/cpi
 
