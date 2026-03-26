@@ -17,13 +17,9 @@ https://bitcoin.org/bitcoin.pdf
 --- Send and Sync traits ---
 https://google.github.io/comprehensive-rust/concurrency/send-sync.html
 
-https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 
 ---- Build Scripts ----
 https://doc.rust-lang.org/cargo/reference/build-scripts.html
-
----- Kafka ----
-https://github.com/kafka-rust/kafka-rust
 
 
 ### Nginx
