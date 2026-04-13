@@ -39,9 +39,6 @@ https://nextjs.org/docs/app/building-your-application/data-fetching/server-actio
 https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
-### recoil Asynchronous Data Queries
-https://recoiljs.org/docs/guides/asynchronous-data-queries
-
 
 ## Rust macro_rules!
 https://doc.rust-lang.org/rust-by-example/macros.html
