@@ -51,9 +51,6 @@ https://learning.postman.com/docs/getting-started/importing-and-exporting/export
 https://www.youtube.com/watch?v=ThjvMReOXYM&t=692s
 
 
-### MCP
-https://github.com/modelcontextprotocol
-
 ### Nginx
 https://www.youtube.com/watch?v=9t9Mp0BGnyI
 
